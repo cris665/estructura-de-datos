@@ -1,0 +1,5 @@
+.DS_Store
+*.class
+bin/
+out/
+_respaldo_antes_del_zip/
